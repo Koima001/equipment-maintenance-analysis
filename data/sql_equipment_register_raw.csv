@@ -1,0 +1,121 @@
+equipment_id,equipment_name,equipment_type,site_id,site_name,commissioned_year,criticality,manufacturer
+EQ-0001,Generator-001,Generator,SITE-01,Coastal Plant,2023,C,Atlas Industrial
+EQ-0002,Cooling Unit-002,Cooling Unit,SITE-02,Inland Plant,2014,C,Summit Mechanical
+EQ-0003,Cooling Unit-003,Cooling Unit,SITE-04,Northern Facility,2012,B,Northstar Systems
+EQ-0004,Cooling Unit-004,Cooling Unit,SITE-01,Coastal Plant,2020,A,Atlas Industrial
+EQ-0005,Pump-005,Pump,SITE-03,Central Depot,2016,B,Atlas Industrial
+EQ-0006,Storage Tank-006,Storage Tank,SITE-04,Northern Facility,2018,B,Northstar Systems
+EQ-0007,Generator-007,Generator,SITE-04,Northern Facility,2013,B,Coastline Engineering
+EQ-0008,Storage Tank-008,Storage Tank,SITE-04,Northern Facility,2016,C,Atlas Industrial
+EQ-0009,Pump-009,Pump,SITE-03,Central Depot,2020,C,Coastline Engineering
+EQ-0010,Conveyor-010,Conveyor,SITE-03,Central Depot,2016,A,Coastline Engineering
+EQ-0011,Storage Tank-011,Storage Tank,SITE-01,Coastal Plant,2022,B,Coastline Engineering
+EQ-0012,Conveyor-012,Conveyor,SITE-04,Northern Facility,2022,A,Summit Mechanical
+EQ-0013,Pump-013,Pump,SITE-04,Northern Facility,2021,B,Summit Mechanical
+EQ-0014,Cooling Unit-014,Cooling Unit,SITE-04,Northern Facility,2023,B,Summit Mechanical
+EQ-0015,Cooling Unit-015,Cooling Unit,SITE-04,Northern Facility,2021,C,Atlas Industrial
+EQ-0016,Compressor-016,Compressor,SITE-02,Inland Plant,2014,A,Atlas Industrial
+EQ-0017,Conveyor-017,Conveyor,SITE-04,Northern Facility,2023,A,Summit Mechanical
+EQ-0018,Pump-018,Pump,SITE-02,Inland Plant,2020,C,Summit Mechanical
+EQ-0019,Storage Tank-019,Storage Tank,SITE-04,Northern Facility,2013,C,Coastline Engineering
+EQ-0020,Storage Tank-020,Storage Tank,SITE-04,Northern Facility,2015,B,Summit Mechanical
+EQ-0021,Conveyor-021,Conveyor,SITE-04,Northern Facility,2014,A,Coastline Engineering
+EQ-0022,Pump-022,Pump,SITE-03,Central Depot,2024,A,Northstar Systems
+EQ-0023,Cooling Unit-023,Cooling Unit,SITE-04,Northern Facility,2021,B,Coastline Engineering
+EQ-0024,Generator-024,Generator,SITE-02,Inland Plant,2023,C,Summit Mechanical
+EQ-0025,Cooling Unit-025,Cooling Unit,SITE-04,Northern Facility,2015,B,Summit Mechanical
+EQ-0026,Generator-026,Generator,SITE-01,Coastal Plant,2020,B,Summit Mechanical
+EQ-0027,Conveyor-027,Conveyor,SITE-01,Coastal Plant,2019,C,Coastline Engineering
+EQ-0028,Compressor-028,Compressor,SITE-04,Northern Facility,2021,B,Summit Mechanical
+EQ-0029,Storage Tank-029,Storage Tank,SITE-01,Coastal Plant,2013,B,Summit Mechanical
+EQ-0030,Pump-030,Pump,SITE-03,Central Depot,2018,A,Summit Mechanical
+EQ-0031,Conveyor-031,Conveyor,SITE-02,Inland Plant,2020,A,Atlas Industrial
+EQ-0032,Conveyor-032,Conveyor,SITE-01,Coastal Plant,2022,C,Atlas Industrial
+EQ-0033,Compressor-033,Compressor,SITE-02,Inland Plant,2020,A,Atlas Industrial
+EQ-0034,Storage Tank-034,Storage Tank,SITE-03,Central Depot,2017,C,Coastline Engineering
+EQ-0035,Pump-035,Pump,SITE-02,Inland Plant,2017,B,Summit Mechanical
+EQ-0036,Cooling Unit-036,Cooling Unit,SITE-02,Inland Plant,2016,A,Summit Mechanical
+EQ-0037,Cooling Unit-037,Cooling Unit,SITE-02,Inland Plant,2014,C,Coastline Engineering
+EQ-0038,Conveyor-038,Conveyor,SITE-01,Coastal Plant,2015,C,Northstar Systems
+EQ-0039,Cooling Unit-039,Cooling Unit,SITE-02,Inland Plant,2013,B,Summit Mechanical
+EQ-0040,Compressor-040,Compressor,SITE-04,Northern Facility,2014,C,Northstar Systems
+EQ-0041,Pump-041,Pump,SITE-04,Northern Facility,2023,A,Summit Mechanical
+EQ-0042,Pump-042,Pump,SITE-01,Coastal Plant,2018,B,Coastline Engineering
+EQ-0043,Pump-043,Pump,SITE-01,Coastal Plant,2013,C,Summit Mechanical
+EQ-0044,Storage Tank-044,Storage Tank,SITE-03,Central Depot,2017,B,Summit Mechanical
+EQ-0045,Pump-045,Pump,SITE-03,Central Depot,2015,B,Summit Mechanical
+EQ-0046,Compressor-046,Compressor,SITE-02,Inland Plant,2020,C,Northstar Systems
+EQ-0047,Cooling Unit-047,Cooling Unit,SITE-04,Northern Facility,2022,B,Summit Mechanical
+EQ-0048,Storage Tank-048,Storage Tank,SITE-02,Inland Plant,2012,C,Atlas Industrial
+EQ-0049,Pump-049,Pump,SITE-04,Northern Facility,2018,A,Northstar Systems
+EQ-0050,Storage Tank-050,Storage Tank,SITE-01,Coastal Plant,2017,C,Atlas Industrial
+EQ-0051,Storage Tank-051,Storage Tank,SITE-04,Northern Facility,2024,A,Summit Mechanical
+EQ-0052,Compressor-052,Compressor,SITE-01,Coastal Plant,2016,C,Northstar Systems
+EQ-0053,Compressor-053,Compressor,SITE-02,Inland Plant,2014,C,Northstar Systems
+EQ-0054,Generator-054,Generator,SITE-04,Northern Facility,2014,B,Summit Mechanical
+EQ-0055,Conveyor-055,Conveyor,SITE-01,Coastal Plant,2018,B,Northstar Systems
+EQ-0056,Compressor-056,Compressor,SITE-03,Central Depot,2019,B,Summit Mechanical
+EQ-0057,Conveyor-057,Conveyor,SITE-04,Northern Facility,2016,B,Summit Mechanical
+EQ-0058,Generator-058,Generator,SITE-02,Inland Plant,2017,C,Summit Mechanical
+EQ-0059,Pump-059,Pump,SITE-04,Northern Facility,2020,C,Coastline Engineering
+EQ-0060,Compressor-060,Compressor,SITE-01,Coastal Plant,2015,A,Atlas Industrial
+EQ-0061,Conveyor-061,Conveyor,SITE-01,Coastal Plant,2024,C,Coastline Engineering
+EQ-0062,Cooling Unit-062,Cooling Unit,SITE-04,Northern Facility,2014,C,Northstar Systems
+EQ-0063,Generator-063,Generator,SITE-01,Coastal Plant,2024,A,Coastline Engineering
+EQ-0064,Pump-064,Pump,SITE-02,Inland Plant,2023,C,Coastline Engineering
+EQ-0065,Cooling Unit-065,Cooling Unit,SITE-02,Inland Plant,2024,B,Coastline Engineering
+EQ-0066,Pump-066,Pump,SITE-02,Inland Plant,2022,B,Atlas Industrial
+EQ-0067,Compressor-067,Compressor,SITE-04,Northern Facility,2018,A,Atlas Industrial
+EQ-0068,Storage Tank-068,Storage Tank,SITE-03,Central Depot,2019,A,Atlas Industrial
+EQ-0069,Generator-069,Generator,SITE-03,Central Depot,2014,C,Atlas Industrial
+EQ-0070,Generator-070,Generator,SITE-03,Central Depot,2016,A,Coastline Engineering
+EQ-0071,Pump-071,Pump,SITE-03,Central Depot,2018,A,Summit Mechanical
+EQ-0072,Conveyor-072,Conveyor,SITE-03,Central Depot,2024,A,Atlas Industrial
+EQ-0073,Compressor-073,Compressor,SITE-01,Coastal Plant,2022,A,Coastline Engineering
+EQ-0074,Pump-074,Pump,SITE-01,Coastal Plant,2019,C,Coastline Engineering
+EQ-0075,Conveyor-075,Conveyor,SITE-03,Central Depot,2019,C,Atlas Industrial
+EQ-0076,Generator-076,Generator,SITE-04,Northern Facility,2017,C,Northstar Systems
+EQ-0077,Conveyor-077,Conveyor,SITE-04,Northern Facility,2017,C,Atlas Industrial
+EQ-0078,Cooling Unit-078,Cooling Unit,SITE-03,Central Depot,2023,C,Coastline Engineering
+EQ-0079,Generator-079,Generator,SITE-04,Northern Facility,2012,B,Atlas Industrial
+EQ-0080,Pump-080,Pump,SITE-04,Northern Facility,2016,B,Coastline Engineering
+EQ-0081,Storage Tank-081,Storage Tank,SITE-03,Central Depot,2017,A,Coastline Engineering
+EQ-0082,Generator-082,Generator,SITE-04,Northern Facility,2021,C,Atlas Industrial
+EQ-0083,Compressor-083,Compressor,SITE-03,Central Depot,2017,C,Atlas Industrial
+EQ-0084,Compressor-084,Compressor,SITE-01,Coastal Plant,2016,C,Atlas Industrial
+EQ-0085,Pump-085,Pump,SITE-01,Coastal Plant,2013,A,Coastline Engineering
+EQ-0086,Pump-086,Pump,SITE-03,Central Depot,2015,B,Northstar Systems
+EQ-0087,Conveyor-087,Conveyor,SITE-03,Central Depot,2013,B,Summit Mechanical
+EQ-0088,Conveyor-088,Conveyor,SITE-02,Inland Plant,2021,C,Northstar Systems
+EQ-0089,Compressor-089,Compressor,SITE-02,Inland Plant,2017,C,Atlas Industrial
+EQ-0090,Generator-090,Generator,SITE-04,Northern Facility,2014,A,Northstar Systems
+EQ-0091,Pump-091,Pump,SITE-01,Coastal Plant,2019,B,Summit Mechanical
+EQ-0092,Generator-092,Generator,SITE-04,Northern Facility,2018,B,Northstar Systems
+EQ-0093,Compressor-093,Compressor,SITE-01,Coastal Plant,2018,C,Atlas Industrial
+EQ-0094,Generator-094,Generator,SITE-03,Central Depot,2019,C,Coastline Engineering
+EQ-0095,Storage Tank-095,Storage Tank,SITE-01,Coastal Plant,2020,A,Northstar Systems
+EQ-0096,Pump-096,Pump,SITE-04,Northern Facility,2014,A,Northstar Systems
+EQ-0097,Storage Tank-097,Storage Tank,SITE-04,Northern Facility,2014,B,Northstar Systems
+EQ-0098,Generator-098,Generator,SITE-03,Central Depot,2021,A,Coastline Engineering
+EQ-0099,Conveyor-099,Conveyor,SITE-03,Central Depot,2024,C,Summit Mechanical
+EQ-0100,Storage Tank-100,Storage Tank,SITE-04,Northern Facility,2019,C,Coastline Engineering
+EQ-0101,Compressor-101,Compressor,SITE-02,Inland Plant,2017,C,Summit Mechanical
+EQ-0102,Conveyor-102,Conveyor,SITE-02,Inland Plant,2020,A,Coastline Engineering
+EQ-0103,Pump-103,Pump,SITE-04,Northern Facility,2012,C,Northstar Systems
+EQ-0104,Generator-104,Generator,SITE-01,Coastal Plant,2016,B,Coastline Engineering
+EQ-0105,Storage Tank-105,Storage Tank,SITE-02,Inland Plant,2016,C,Atlas Industrial
+EQ-0106,Cooling Unit-106,Cooling Unit,SITE-01,Coastal Plant,2017,A,Coastline Engineering
+EQ-0107,Conveyor-107,Conveyor,SITE-01,Coastal Plant,2021,B,Northstar Systems
+EQ-0108,Pump-108,Pump,SITE-01,Coastal Plant,2018,A,Summit Mechanical
+EQ-0109,Cooling Unit-109,Cooling Unit,SITE-03,Central Depot,2023,B,Coastline Engineering
+EQ-0110,Storage Tank-110,Storage Tank,SITE-01,Coastal Plant,2018,C,Northstar Systems
+EQ-0111,Generator-111,Generator,SITE-02,Inland Plant,2012,B,Coastline Engineering
+EQ-0112,Compressor-112,Compressor,SITE-03,Central Depot,2020,B,Northstar Systems
+EQ-0113,Cooling Unit-113,Cooling Unit,SITE-01,Coastal Plant,2022,C,Summit Mechanical
+EQ-0114,Generator-114,Generator,SITE-04,Northern Facility,2019,C,Northstar Systems
+EQ-0115,Compressor-115,Compressor,SITE-01,Coastal Plant,2024,B,Northstar Systems
+EQ-0116,Pump-116,Pump,SITE-02,Inland Plant,2017,A,Atlas Industrial
+EQ-0117,Pump-117,Pump,SITE-03,Central Depot,2022,B,Coastline Engineering
+EQ-0118,Cooling Unit-118,Cooling Unit,SITE-02,Inland Plant,2012,A,Northstar Systems
+EQ-0119,Pump-119,Pump,SITE-02,Inland Plant,2012,B,Summit Mechanical
+EQ-0120,Storage Tank-120,Storage Tank,SITE-01,Coastal Plant,2022,A,Summit Mechanical
