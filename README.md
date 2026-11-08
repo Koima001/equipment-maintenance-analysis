@@ -32,7 +32,7 @@ The equipment register was also inspected and did not require cleaning.
 
 ### 2. Data Analysis
 
-SQL was used to query and analyse the maintenance data, supporting the examination of work orders, maintenance activities, equipment-related information, and operational performance.
+SQL was used to query and analyse the maintenance data, supporting the examination of work orders, maintenance activities, equipment-related information and operational performance.
 
 ### 3. Power BI Dashboards
 
@@ -52,8 +52,7 @@ Focuses on the cost dimension of equipment maintenance, providing a visual overv
 ## Repository Structure
 
 
-*The repository structure may be adjusted to match the final uploaded file names and formats.*
-
+*
 ## Key Data Quality Findings
 
 | Cleaning Activity | Records |
