@@ -1,1 +1,63 @@
+## Key Findings
 
+1. **Maintenance cost distribution:** Parts expenditure accounts for approximately KES 106.86 million, considerably exceeding labour costs of KES 23.27 million. This indicates that spare parts are the primary contributor to maintenance expenditure.
+
+2. **Site-level expenditure:** SITE-04 records the highest maintenance expenditure, followed by SITE-01, SITE-02 and SITE-03. This suggests differences in equipment maintenance demands or operating conditions across sites.
+
+3. **Maintenance work types:** Preventive and corrective maintenance account for the largest expenditure, while inspection and emergency maintenance contribute relatively less.
+
+4. **Equipment and priority costs:** Maintenance expenditure varies across equipment types and priority levels, highlighting differences in maintenance requirements and resource allocation.
+
+5. **Manufacturer expenditure:** Parts expenditure differs considerably across manufacturers and equipment categories. Summit Mechanical records particularly high expenditure on pumps, while Atlas Industrial records substantial expenditure on compressors.
+
+6. **Monthly expenditure trends:** Maintenance costs fluctuate throughout the year. January records the highest expenditure, while June records the lowest. Expenditure increases again towards November.
+
+## Recommendations
+
+1. **Optimize spare parts procurement:** Review frequently purchased parts, negotiate supplier contracts and explore cost-effective sourcing strategies to reduce parts expenditure.
+
+2. **Investigate high-cost sites:** Conduct further assessments at SITE-04 and SITE-01 to identify equipment, maintenance practices or operating conditions contributing to higher costs.
+
+3. **Strengthen preventive maintenance:** Review preventive maintenance schedules to identify opportunities to reduce costly corrective interventions and unexpected equipment failures.
+
+4. **Evaluate supplier performance:** Compare manufacturer costs, parts quality and equipment reliability to support informed procurement and supplier selection.
+
+5. **Monitor monthly expenditure:** Investigate periods of unusually high expenditure and establish monthly maintenance cost monitoring to improve budget planning.
+
+## Conclusion
+
+The analysis identifies spare parts as the largest contributor to maintenance expenditure, with notable differences across sites, equipment categories and manufacturers. Improving procurement practices, preventive maintenance and cost monitoring could help reduce maintenance expenditure and improve operational efficiency.
+
+## Key Findings
+
+1. **Work order performance:** The dashboard reports 949 closed work orders, approximately 3.01K total downtime hours and an average downtime of 2.51 hours per work order.
+
+2. **Failure mode distribution:** Scheduled maintenance accounts for the highest number of work orders, at approximately 450. Other failure categories, including electrical faults, leakage, vibration and overheating, record considerably fewer work orders.
+
+3. **Downtime by failure mode:** Leakage contributes the highest downtime, followed by overheating and blockage. Wear records the lowest downtime among the displayed failure categories.
+
+4. **Site-level maintenance activity:** Maintenance work orders vary across the four sites. SITE-04 records relatively high corrective maintenance activity, while SITE-01 has substantial preventive maintenance activity.
+
+5. **Monthly work order trends:** January records the highest work order volume, while June experiences the lowest. Work order volumes recover towards November before declining in December.
+
+6. **Maintenance priority distribution:** Medium-priority work orders account for the largest proportion (approximately 41.2%), followed by high-priority work orders (28.17%). Critical-priority work orders account for approximately 9.83%.
+
+7. **Labour hours:** Labour-hour requirements vary across equipment types and criticality levels, indicating differences in maintenance resource requirements.
+
+## Recommendations
+
+1. **Prioritize high-downtime failure modes:** Investigate leakage, overheating and blockage to identify recurring causes and implement targeted corrective measures.
+
+2. **Improve preventive maintenance:** Review preventive maintenance schedules and inspection procedures to reduce equipment breakdowns and minimize unplanned downtime.
+
+3. **Strengthen critical equipment monitoring:** Ensure critical-priority equipment receives timely inspections, maintenance interventions and appropriate resource allocation.
+
+4. **Review site-level performance:** Investigate differences in work order volumes and maintenance patterns across sites to identify opportunities for standardizing maintenance practices.
+
+5. **Optimize maintenance workforce allocation:** Use labour-hour trends across equipment categories and criticality levels to improve technician scheduling and resource planning.
+
+6. **Monitor monthly work order trends:** Investigate the high work order volumes recorded in January and the reduction in June to identify possible seasonal, operational or maintenance-planning factors.
+
+## Conclusion
+
+The analysis highlights the relationship between equipment failure patterns, downtime, maintenance priorities and labour requirements. Addressing high-downtime failure modes, strengthening preventive maintenance and improving workforce allocation could enhance equipment reliability and operational performance.
