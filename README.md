@@ -12,7 +12,12 @@ The project demonstrates the use of **Excel, SQL, and Power BI** in preparing, a
 - **SQL (MySQL):** Data cleaning, validation, transformation, and querying.
 - **Power BI:** Data visualisation, dashboard development, and reporting.
 
-## Project Workflow
+## Project Objectives
+- Analyze industrial logistics and material costs.
+- Evaluate customer expenditure and depot inventory distribution.
+- Assess production performance against targets.
+- Analyze production costs and quality performance.
+- Develop interactive dashboards to support business decision-making.
 
 ### 1. Data Preparation and Cleaning
 
@@ -50,18 +55,13 @@ Focuses on maintenance operations, including:
 Focuses on the cost dimension of equipment maintenance, providing a visual overview of maintenance expenditure.
 
 ## Repository Structure
+ [a_data](https://github.com/Koima001/equipment-maintenance-analysis/tree/main/a_data) contains raw and cleaned datasets 
 
+ [b_sql](https://github.com/Koima001/equipment-maintenance-analysis/tree/main/b_sql) Has sql queries used for data cleaning and exploratory data analysis.
 
-*
-## Key Data Quality Findings
+ [c_Power_BI](https://github.com/Koima001/equipment-maintenance-analysis/tree/main/C_Power_BI) Has dashboard snippets used for analysis.
 
-| Cleaning Activity | Records |
-|---|---:|
-| Duplicate records identified and removed | 4 |
-| Blank Closed Date values converted to NULL | 251 |
-| Blank Technician ID values converted to NULL | 12 |
-
-**Note:** Converting blank values to `NULL` preserves the missing-data status rather than replacing the missing information with assumed values.
+ [d_analysis](https://github.com/Koima001/equipment-maintenance-analysis/tree/main/d_analysis) Has findings and reccommendations.
 
 ## Project Outcomes
 
